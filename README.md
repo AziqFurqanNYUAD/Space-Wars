@@ -141,8 +141,6 @@ Developers looking at this structure can navigate the code in `Sexarush.pyde` to
 * **Aziq Furqan** – Creator and Developer of *Space Wars (Sexa Rush)*.
   *Credit:* This project was developed by Aziq as part of an academic or hobby endeavor at NYU Abu Dhabi (as indicated by the handle). All game design, coding, and assets assembly in the repository were done by them. If you use this code or build upon it, please attribute the original author.
 
-*(If there were any additional contributors or sources of assets, they would be noted here. For example, if the music or certain graphics were taken from free asset libraries, ideally those would be credited. Since the repository doesn’t explicitly list others, we assume all content was either created by the author or is free-to-use.)*
-
 
 
 
